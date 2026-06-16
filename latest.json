@@ -1,8 +1,8 @@
 {
-  "versionCode": 5,
-  "versionName": "1.05",
-  "apkUrl": "https://github.com/AugeasTechnologies/puretip-ota/releases/download/v1.05/PuretipOne-v1.05.apk",
-  "sha256": "cf32ad689142dc051121f412cde9758d5cc93832aae9f1f6ddce1a1a765ed4ab",
+  "versionCode": 6,
+  "versionName": "1.06",
+  "apkUrl": "https://github.com/AugeasTechnologies/puretip-ota/releases/download/v1.06/PuretipOne-v1.06.apk",
+  "sha256": "32a386a3d4fac30063fb1251c5110e279296f9b918f2b64a8c1dc15bb4f2e216",
   "mandatory": false,
-  "notes": "Single-app lock now requires Device Owner provisioning (removes the flaky screen-pinning); screen-stays-on and auto-start are unchanged."
+  "notes": "Diagnostics: show the active update-server URL on the Software Update card."
 }
