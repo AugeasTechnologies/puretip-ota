@@ -2,7 +2,7 @@
   "versionCode": 3,
   "versionName": "1.03",
   "apkUrl": "https://github.com/AugeasTechnologies/puretip-ota/releases/download/v1.03/PuretipOne-v1.03.apk",
-  "sha256": "bb74b74689b8f395e2ce559e1b829affad427f36a4dcae335c87d41f210f2dab",
+  "sha256": "4aa9e9ae394ebdc6d19b126b94c6e4d3bfeb96a2101f2b88d361746f2212e448",
   "mandatory": false,
   "notes": "Puretip One 1.03 - join Wi-Fi while the kiosk lock is on; delivered over the air."
 }
