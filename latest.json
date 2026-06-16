@@ -1,8 +1,8 @@
 {
-  "versionCode": 6,
-  "versionName": "1.06",
-  "apkUrl": "https://github.com/AugeasTechnologies/puretip-ota/releases/download/v1.06/PuretipOne-v1.06.apk",
-  "sha256": "32a386a3d4fac30063fb1251c5110e279296f9b918f2b64a8c1dc15bb4f2e216",
+  "versionCode": 7,
+  "versionName": "1.07",
+  "apkUrl": "https://github.com/AugeasTechnologies/puretip-ota/releases/download/v1.07/PuretipOne-v1.07.apk",
+  "sha256": "5ce307cdda50c2aef45fc083d6356eafc9a2320cbe2e89b673c0d41814024312",
   "mandatory": false,
-  "notes": "Diagnostics: show the active update-server URL on the Software Update card."
+  "notes": "Rebased onto v1.01 vendor build + full Augeas integration (Bioyond, OTA, kiosk)."
 }
