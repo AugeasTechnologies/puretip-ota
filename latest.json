@@ -1,8 +1,8 @@
 {
-  "versionCode": 8,
-  "versionName": "1.08",
-  "apkUrl": "https://github.com/AugeasTechnologies/puretip-ota/releases/download/v1.08/PuretipOne-v1.08.apk",
-  "sha256": "088c9b748f78b5abe946a13a247a0ca5861dfb681ddb4ec1dd1477651211b189",
+  "versionCode": 9,
+  "versionName": "1.09",
+  "apkUrl": "https://github.com/AugeasTechnologies/puretip-ota/releases/download/v1.09/PuretipOne-v1.09.apk",
+  "sha256": "a34ee9c16610fcfd73ffe0d66de1b661193299bc61d01ab2527fc4f99f04a28e",
   "mandatory": false,
-  "notes": "UI polish: keypad, info/Stop/Back buttons, diagnostics."
+  "notes": "Light theme lock, purple/white buttons, cleaner numeric keypad."
 }
