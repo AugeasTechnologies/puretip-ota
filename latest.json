@@ -1,8 +1,8 @@
 {
-  "versionCode": 9,
-  "versionName": "1.09",
-  "apkUrl": "https://github.com/AugeasTechnologies/puretip-ota/releases/download/v1.09/PuretipOne-v1.09.apk",
-  "sha256": "a34ee9c16610fcfd73ffe0d66de1b661193299bc61d01ab2527fc4f99f04a28e",
+  "versionCode": 11,
+  "versionName": "1.11",
+  "apkUrl": "https://github.com/AugeasTechnologies/puretip-ota/releases/download/v1.11/PuretipOne-v1.11.apk",
+  "sha256": "1a4ee5ca48e217cd59db7dd984904100a54580d7fc9218e1f90794a6982377a2",
   "mandatory": false,
-  "notes": "Light theme lock, purple/white buttons, cleaner numeric keypad."
+  "notes": "Animated startup splash; redesigned About (device naming + firmware breakdown); unified brand purple; fits any screen size; interactive coloured TeraTerm console; verified Bioyond Rob INTF + Studio/LIMS API; smoother transitions; bigger Stop button."
 }
