@@ -1,8 +1,8 @@
 {
-  "versionCode": 16,
-  "versionName": "1.16",
-  "apkUrl": "https://github.com/AugeasTechnologies/puretip-ota/releases/download/v1.16/PuretipOne-v1.16.apk",
-  "sha256": "ee37d4aa8565625b7618dbc4718ac23a913f96b728e8fe78989373016b1b89f8",
+  "versionCode": 17,
+  "versionName": "1.17",
+  "apkUrl": "https://github.com/AugeasTechnologies/puretip-ota/releases/download/v1.17/PuretipOne-v1.17.apk",
+  "sha256": "550c6fa60112fa71b3ed7b50d53d9691c33646212bca82b24cc21be3bc0d520c",
   "mandatory": false,
-  "notes": "TeraTerm console now mirrors tablet dialogs: any on-screen alert (e.g. Communication Error) appears live in the console as [ALERT], plus a new 'log' command for recent activity/alerts."
+  "notes": "CRITICAL: opening the console no longer halts a running BLE cycle (console writes moved off the UI thread). New 'reconnect' command + automatic BLE auto-reconnect when the link drops (toggle: autoreconnect on|off)."
 }
