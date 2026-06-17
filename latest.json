@@ -1,8 +1,8 @@
 {
-  "versionCode": 12,
-  "versionName": "1.12",
-  "apkUrl": "https://github.com/AugeasTechnologies/puretip-ota/releases/download/v1.12/PuretipOne-v1.12.apk",
-  "sha256": "57c8d693e7969140959a3f7848eeadb9ccd3e70da17bf698e188aa3e0760e69c",
+  "versionCode": 13,
+  "versionName": "1.13",
+  "apkUrl": "https://github.com/AugeasTechnologies/puretip-ota/releases/download/v1.13/PuretipOne-v1.13.apk",
+  "sha256": "0fa69f7a9825f0fb3fb16ca349237d5f03b1f18f68c7fa933ccaf25026dda851",
   "mandatory": false,
-  "notes": "Official blue IonField logo on splash; set Misting/Cleaning time + depth + power from the console; Select Tip / Calibrate tabs + steps unified to brand purple; bigger numeric-input fonts with no Max-value clipping; Settings page redesign; consistent Diagnostics font; no vendor-screen flash on open/close; Command Console banner."
+  "notes": "Hidden the vendor multi-product Menu (Pipette/SPE) for a clean single-product UI; splash logos now zoom gently while loading; matched Service login / Save & close buttons; (incl. v1.12: blue IonField logo, console-settable Misting/Cleaning time, purple tabs, bigger numeric fonts, Settings redesign)."
 }
