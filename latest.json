@@ -1,8 +1,8 @@
 {
-  "versionCode": 17,
-  "versionName": "1.17",
-  "apkUrl": "https://github.com/AugeasTechnologies/puretip-ota/releases/download/v1.17/PuretipOne-v1.17.apk",
-  "sha256": "550c6fa60112fa71b3ed7b50d53d9691c33646212bca82b24cc21be3bc0d520c",
+  "versionCode": 18,
+  "versionName": "1.18",
+  "apkUrl": "https://github.com/AugeasTechnologies/puretip-ota/releases/download/v1.18/PuretipOne-v1.18.apk",
+  "sha256": "8312a18e264458b418749f58c90fb0c2f1fc0c197c36e9e5ad3db0d86d9a749e",
   "mandatory": false,
-  "notes": "CRITICAL: opening the console no longer halts a running BLE cycle (console writes moved off the UI thread). New 'reconnect' command + automatic BLE auto-reconnect when the link drops (toggle: autoreconnect on|off)."
+  "notes": "Reliability hardening (no UI changes): the Bioyond scheduler links (Rob INTF :56788 + LIMS HTTP :8080) now self-recover if the connection drops or the port is briefly busy, instead of needing an app restart; hardened the in-app updater (no file-handle leaks; an integrity-check failure discards the download); guarded against a malformed oversized network request; better background survival on OEM/Lenovo tablets via a one-time battery-optimisation exemption."
 }
