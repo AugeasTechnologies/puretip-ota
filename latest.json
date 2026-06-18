@@ -1,8 +1,8 @@
 {
-  "versionCode": 18,
-  "versionName": "1.18",
-  "apkUrl": "https://github.com/AugeasTechnologies/puretip-ota/releases/download/v1.18/PuretipOne-v1.18.apk",
-  "sha256": "8312a18e264458b418749f58c90fb0c2f1fc0c197c36e9e5ad3db0d86d9a749e",
+  "versionCode": 19,
+  "versionName": "1.19",
+  "apkUrl": "https://github.com/AugeasTechnologies/puretip-ota/releases/download/v1.19/PuretipOne-v1.19.apk",
+  "sha256": "253551aa31d86bba14ffab5ca32fcb315446d1298374cc53588e7cd58d6a8ddb",
   "mandatory": false,
-  "notes": "Reliability hardening (no UI changes): the Bioyond scheduler links (Rob INTF :56788 + LIMS HTTP :8080) now self-recover if the connection drops or the port is briefly busy, instead of needing an app restart; hardened the in-app updater (no file-handle leaks; an integrity-check failure discards the download); guarded against a malformed oversized network request; better background survival on OEM/Lenovo tablets via a one-time battery-optimisation exemption."
+  "notes": "New: the station auto-connects on startup and keeps the Bluetooth link up on its own (auto-reconnect retries faster if it drops). Added a one-tap Self-Check (Diagnostics > Run self-check, or 'selfcheck' on the console) that flags any problem - link, station, Wi-Fi, lab scheduler - in plain English with a suggested fix. Plus a short guided tutorial of the controls, shown once on first launch and replayable from Diagnostics > Show tutorial."
 }
