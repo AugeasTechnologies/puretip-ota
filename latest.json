@@ -1,8 +1,8 @@
 {
-  "versionCode": 19,
-  "versionName": "1.19",
-  "apkUrl": "https://github.com/AugeasTechnologies/puretip-ota/releases/download/v1.19/PuretipOne-v1.19.apk",
-  "sha256": "253551aa31d86bba14ffab5ca32fcb315446d1298374cc53588e7cd58d6a8ddb",
+  "versionCode": 20,
+  "versionName": "1.20",
+  "apkUrl": "https://github.com/AugeasTechnologies/puretip-ota/releases/download/v1.20/PuretipOne-v1.20.apk",
+  "sha256": "b078e6a73e247d82c0f70f68b4cbffdbc6b97b90cd25ceef99206d4bce0e4ff6",
   "mandatory": false,
-  "notes": "New: the station auto-connects on startup and keeps the Bluetooth link up on its own (auto-reconnect retries faster if it drops). Added a one-tap Self-Check (Diagnostics > Run self-check, or 'selfcheck' on the console) that flags any problem - link, station, Wi-Fi, lab scheduler - in plain English with a suggested fix. Plus a short guided tutorial of the controls, shown once on first launch and replayable from Diagnostics > Show tutorial."
+  "notes": "Corrected the guided tutorial: it now walks the full station cycle - Connect, Select tip & calibrate, set parameters, Initialize, Load Tips, Mist, Clean, Unload Tips - adding the Load/Unload steps the previous tour skipped. The updated tour shows once on the next launch; replay anytime from Diagnostics > Show tutorial. (Includes everything from v1.19: auto-connect, one-tap Self-Check, in-app tutorial.)"
 }
