@@ -1,8 +1,8 @@
 {
-  "versionCode": 20,
-  "versionName": "1.20",
-  "apkUrl": "https://github.com/AugeasTechnologies/puretip-ota/releases/download/v1.20/PuretipOne-v1.20.apk",
-  "sha256": "b078e6a73e247d82c0f70f68b4cbffdbc6b97b90cd25ceef99206d4bce0e4ff6",
+  "versionCode": 21,
+  "versionName": "1.21",
+  "apkUrl": "https://github.com/AugeasTechnologies/puretip-ota/releases/download/v1.21/PuretipOne-v1.21.apk",
+  "sha256": "999b06fe79a73b75ed3b9f41470a62ffc87e6c585cac825e5ed45307b0356238",
   "mandatory": false,
-  "notes": "Corrected the guided tutorial: it now walks the full station cycle - Connect, Select tip & calibrate, set parameters, Initialize, Load Tips, Mist, Clean, Unload Tips - adding the Load/Unload steps the previous tour skipped. The updated tour shows once on the next launch; replay anytime from Diagnostics > Show tutorial. (Includes everything from v1.19: auto-connect, one-tap Self-Check, in-app tutorial.)"
+  "notes": "Self-healing fleet tools: crash logging (viewable on-device + reported home), a fleet heartbeat that reports each tablet's version and health so the fleet can be monitored remotely, plus internal safer-update tooling. No change to day-to-day operation."
 }
