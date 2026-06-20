@@ -1,8 +1,8 @@
 {
-  "versionCode": 21,
-  "versionName": "1.21",
-  "apkUrl": "https://github.com/AugeasTechnologies/puretip-ota/releases/download/v1.21/PuretipOne-v1.21.apk",
-  "sha256": "999b06fe79a73b75ed3b9f41470a62ffc87e6c585cac825e5ed45307b0356238",
+  "versionCode": 32,
+  "versionName": "1.32",
+  "apkUrl": "https://github.com/AugeasTechnologies/puretip-ota/releases/download/v1.32/PuretipOne-v1.32.apk",
+  "sha256": "8a64588a6c2949357d1190c2d93073c6d0bf9f309a57d25b7a90722b30cfff2e",
   "mandatory": false,
-  "notes": "Self-healing fleet tools: crash logging (viewable on-device + reported home), a fleet heartbeat that reports each tablet's version and health so the fleet can be monitored remotely, plus internal safer-update tooling. No change to day-to-day operation."
+  "notes": "Polished diagnostics screen, clearer guided tour, animated self-check, and a consistent button style across the app."
 }
