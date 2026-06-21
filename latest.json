@@ -1,8 +1,8 @@
 {
-  "versionCode": 41,
-  "versionName": "1.41",
-  "apkUrl": "https://github.com/AugeasTechnologies/puretip-ota/releases/download/v1.41/PuretipOne-v1.41.apk",
-  "sha256": "51577163a4ac48635405b91e4d97b05c6bae5f66af3fcc80f8a6119661df5da1",
+  "versionCode": 42,
+  "versionName": "1.42",
+  "apkUrl": "https://github.com/AugeasTechnologies/puretip-ota/releases/download/v1.42/PuretipOne-v1.42.apk",
+  "sha256": "4ebf60c7de0aacb727fd0e4ba3638b5632c7c7c34afb28a55eb87c15244a2b31",
   "mandatory": false,
-  "notes": "Kiosk: boot straight into the app by setting it as Home (no Device Owner needed); first-time 'Allow app updates' helper for new tablets; passcode-locked Exit & close button for maintenance."
+  "notes": "Sharper button labels — Load Tips, Misting, Cleaning, Eject Tips and Auto Run text now renders crisply at any screen size (no longer baked into the icon image)."
 }
