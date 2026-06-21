@@ -1,8 +1,8 @@
 {
-  "versionCode": 32,
-  "versionName": "1.32",
-  "apkUrl": "https://github.com/AugeasTechnologies/puretip-ota/releases/download/v1.32/PuretipOne-v1.32.apk",
-  "sha256": "8a64588a6c2949357d1190c2d93073c6d0bf9f309a57d25b7a90722b30cfff2e",
+  "versionCode": 34,
+  "versionName": "1.34",
+  "apkUrl": "https://github.com/AugeasTechnologies/puretip-ota/releases/download/v1.34/PuretipOne-v1.34.apk",
+  "sha256": "0b48248be6cb51a46c3e503a2e5c2259d0b49741a95e926c6ce5701aa1f21191",
   "mandatory": false,
-  "notes": "Polished diagnostics screen, clearer guided tour, animated self-check, and a consistent button style across the app."
+  "notes": "Guided-tour highlight now precisely centered on each control."
 }
