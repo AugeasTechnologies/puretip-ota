@@ -1,8 +1,8 @@
 {
-  "versionCode": 34,
-  "versionName": "1.34",
-  "apkUrl": "https://github.com/AugeasTechnologies/puretip-ota/releases/download/v1.34/PuretipOne-v1.34.apk",
-  "sha256": "0b48248be6cb51a46c3e503a2e5c2259d0b49741a95e926c6ce5701aa1f21191",
+  "versionCode": 36,
+  "versionName": "1.36",
+  "apkUrl": "https://github.com/AugeasTechnologies/puretip-ota/releases/download/v1.36/PuretipOne-v1.36.apk",
+  "sha256": "8da396432468872d516b010062b84b300a8bc09a9651533c138ac4f07e3adefc",
   "mandatory": false,
-  "notes": "Guided-tour highlight now precisely centered on each control."
+  "notes": "Cleaner Select Tip / Load Tips page: rounded list card, friendly empty-state, tidied labels and close button."
 }
