@@ -1,8 +1,8 @@
 {
-  "versionCode": 36,
-  "versionName": "1.36",
-  "apkUrl": "https://github.com/AugeasTechnologies/puretip-ota/releases/download/v1.36/PuretipOne-v1.36.apk",
-  "sha256": "8da396432468872d516b010062b84b300a8bc09a9651533c138ac4f07e3adefc",
+  "versionCode": 38,
+  "versionName": "1.38",
+  "apkUrl": "https://github.com/AugeasTechnologies/puretip-ota/releases/download/v1.38/PuretipOne-v1.38.apk",
+  "sha256": "0f80a92a4951476237cf7d4353d153d1d6b2930dc0bcb4310bd98c8db2937346",
   "mandatory": false,
-  "notes": "Cleaner Select Tip / Load Tips page: rounded list card, friendly empty-state, tidied labels and close button."
+  "notes": "Guided-tour highlight now self-aligns precisely on any screen; added a TeraTerm 'update' command to trigger OTA from the console."
 }
