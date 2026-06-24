@@ -1,8 +1,9 @@
 {
-  "versionCode": 42,
-  "versionName": "1.42",
-  "apkUrl": "https://github.com/AugeasTechnologies/puretip-ota/releases/download/v1.42/PuretipOne-v1.42.apk",
-  "sha256": "4ebf60c7de0aacb727fd0e4ba3638b5632c7c7c34afb28a55eb87c15244a2b31",
+  "versionCode": 43,
+  "versionName": "1.43",
+  "apkUrl": "https://github.com/AugeasTechnologies/puretip-ota/releases/download/v1.43/PuretipOne-v1.43.apk",
+  "sha256": "d17f132d62f879e8fe8fed11ab440dcef156a9bfa74a080c58a20db917c17915",
   "mandatory": false,
-  "notes": "Sharper button labels — Load Tips, Misting, Cleaning, Eject Tips and Auto Run text now renders crisply at any screen size (no longer baked into the icon image)."
+  "targets": ["2f6f857629a63e47"],
+  "notes": "Includes the vendor pump fix (rebased onto Almond v1.02) plus all Puretip One features — kiosk boot, OTA self-update, lab-automation/robotics, and the full UI."
 }
