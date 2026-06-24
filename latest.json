@@ -4,6 +4,5 @@
   "apkUrl": "https://github.com/AugeasTechnologies/puretip-ota/releases/download/v1.43/PuretipOne-v1.43.apk",
   "sha256": "d17f132d62f879e8fe8fed11ab440dcef156a9bfa74a080c58a20db917c17915",
   "mandatory": false,
-  "targets": ["2f6f857629a63e47"],
   "notes": "Includes the vendor pump fix (rebased onto Almond v1.02) plus all Puretip One features — kiosk boot, OTA self-update, lab-automation/robotics, and the full UI."
 }
