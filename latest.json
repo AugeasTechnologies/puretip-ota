@@ -1,8 +1,8 @@
 {
-  "versionCode": 53,
-  "versionName": "1.53",
-  "apkUrl": "https://github.com/AugeasTechnologies/puretip-ota/releases/download/v1.53/PuretipOne-v1.53.apk",
-  "sha256": "90417e409f5a1a6831413fcd3e4a683e55b7e1deaa1819190e7b0c0191709cef",
+  "versionCode": 54,
+  "versionName": "1.54",
+  "apkUrl": "https://github.com/AugeasTechnologies/puretip-ota/releases/download/v1.54/PuretipOne-v1.54.apk",
+  "sha256": "b9563ee680f74ac4827cd2003569c7d77868c79ad55a8dca1236685a2924fbad",
   "mandatory": false,
-  "notes": "Puretip One 1.53"
+  "notes": "Puretip One 1.54"
 }
