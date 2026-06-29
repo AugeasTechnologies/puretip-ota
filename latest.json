@@ -1,8 +1,8 @@
 {
-  "versionCode": 51,
-  "versionName": "1.51",
-  "apkUrl": "https://github.com/AugeasTechnologies/puretip-ota/releases/download/v1.51/PuretipOne-v1.51.apk",
-  "sha256": "688e092765405eada805fa5788cb35b3efe999179c5452821b03ef132f0cf369",
+  "versionCode": 53,
+  "versionName": "1.53",
+  "apkUrl": "https://github.com/AugeasTechnologies/puretip-ota/releases/download/v1.53/PuretipOne-v1.53.apk",
+  "sha256": "90417e409f5a1a6831413fcd3e4a683e55b7e1deaa1819190e7b0c0191709cef",
   "mandatory": false,
-  "notes": "BLE timeout now shows in-app dialog instead of opening system Bluetooth settings (kiosk escape fix)"
+  "notes": "Puretip One 1.53"
 }
