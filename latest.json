@@ -1,8 +1,8 @@
 {
-  "versionCode": 45,
-  "versionName": "1.45",
-  "apkUrl": "https://github.com/AugeasTechnologies/puretip-ota/releases/download/v1.45/PuretipOne-v1.45.apk",
-  "sha256": "9958e338ddec050a9489bbc45482fd0558cfda8a68be4af68dfd63315fd1f6b7",
+  "versionCode": 46,
+  "versionName": "1.46",
+  "apkUrl": "https://github.com/AugeasTechnologies/puretip-ota/releases/download/v1.46/PuretipOne-v1.46.apk",
+  "sha256": "35e0c08ec080b7efef1c5b3103d65d1bff7045a2e6fd594cae6b5af11d58c9c5",
   "mandatory": false,
-  "notes": "v1.45: HTTP server stays live during cycle; async single-step operate; one-at-a-time cycle guard; robustness fixes"
+  "notes": "Puretip One 1.46"
 }
