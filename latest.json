@@ -1,8 +1,8 @@
 {
-  "versionCode": 43,
-  "versionName": "1.43",
-  "apkUrl": "https://github.com/AugeasTechnologies/puretip-ota/releases/download/v1.43/PuretipOne-v1.43.apk",
-  "sha256": "d17f132d62f879e8fe8fed11ab440dcef156a9bfa74a080c58a20db917c17915",
+  "versionCode": 45,
+  "versionName": "1.45",
+  "apkUrl": "https://github.com/AugeasTechnologies/puretip-ota/releases/download/v1.45/PuretipOne-v1.45.apk",
+  "sha256": "9958e338ddec050a9489bbc45482fd0558cfda8a68be4af68dfd63315fd1f6b7",
   "mandatory": false,
-  "notes": "Includes the vendor pump fix (rebased onto Almond v1.02) plus all Puretip One features — kiosk boot, OTA self-update, lab-automation/robotics, and the full UI."
+  "notes": "v1.45: HTTP server stays live during cycle; async single-step operate; one-at-a-time cycle guard; robustness fixes"
 }
