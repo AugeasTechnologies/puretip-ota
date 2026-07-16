@@ -1,8 +1,8 @@
 {
-  "versionCode": 62,
-  "versionName": "1.62",
-  "apkUrl": "https://github.com/AugeasTechnologies/puretip-ota/releases/download/v1.62/PuretipOne-v1.62.apk",
-  "sha256": "c6d8e36a94e5805819500ec90803cb01aa81befa9ea5aeedae604aeba0dc2e39",
+  "versionCode": 63,
+  "versionName": "1.63",
+  "apkUrl": "https://github.com/AugeasTechnologies/puretip-ota/releases/download/v1.63/PuretipOne-v1.63.apk",
+  "sha256": "1f8b356068f02e21156c80f9ecba9d2832f03ce61cc258af14b33c7f3bd8d8b7",
   "mandatory": false,
-  "notes": "Settings passcode 1536. Landscape only. New header buttons and Apple-style keyboard. Shorter texts."
+  "notes": "Service passcode 1536 now works (full access, unlocks height diff). App starts twice as fast."
 }
