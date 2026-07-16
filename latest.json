@@ -1,8 +1,8 @@
 {
-  "versionCode": 64,
-  "versionName": "1.64",
-  "apkUrl": "https://github.com/AugeasTechnologies/puretip-ota/releases/download/v1.64/PuretipOne-v1.64.apk",
-  "sha256": "a360dd542a093f1b691af9c627873a151aa0133048e4f5382ba8e3911a774aa9",
+  "versionCode": 65,
+  "versionName": "1.65",
+  "apkUrl": "https://github.com/AugeasTechnologies/puretip-ota/releases/download/v1.65/PuretipOne-v1.65.apk",
+  "sha256": "c02c12a35177610f525cf8e60abe3401da8552bc549b566e154e140baae59b9b",
   "mandatory": false,
-  "notes": "Cleaner About page."
+  "notes": "Sharper PureTIP One heading."
 }
