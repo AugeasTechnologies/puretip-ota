@@ -1,8 +1,8 @@
 {
-  "versionCode": 59,
-  "versionName": "1.59",
-  "apkUrl": "https://github.com/AugeasTechnologies/puretip-ota/releases/download/v1.59/PuretipOne-v1.59.apk",
-  "sha256": "7b5f437c08e7eeb330402dff3b9b5472f66560322679ade46b8033b4794715b3",
+  "versionCode": 60,
+  "versionName": "1.60",
+  "apkUrl": "https://github.com/AugeasTechnologies/puretip-ota/releases/download/v1.60/PuretipOne-v1.60.apk",
+  "sha256": "4c72fc78305fb7e8e08b6ef2da575228f98feb2a094992ac12ec1e55739f41ba",
   "mandatory": false,
-  "notes": "Puretip One 1.59"
+  "notes": "Settings passcode gate (1536), landscape-only lock, cleaner UI copy"
 }
