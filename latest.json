@@ -1,8 +1,8 @@
 {
-  "versionCode": 65,
-  "versionName": "1.65",
-  "apkUrl": "https://github.com/AugeasTechnologies/puretip-ota/releases/download/v1.65/PuretipOne-v1.65.apk",
-  "sha256": "c02c12a35177610f525cf8e60abe3401da8552bc549b566e154e140baae59b9b",
+  "versionCode": 66,
+  "versionName": "1.66",
+  "apkUrl": "https://github.com/AugeasTechnologies/puretip-ota/releases/download/v1.66/PuretipOne-v1.66.apk",
+  "sha256": "668b3930780489a9815d300b17ab36ff6fb32398925906f2edfefe7928570344",
   "mandatory": false,
-  "notes": "Sharper PureTIP One heading."
+  "notes": "iPad-style keyboard."
 }
