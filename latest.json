@@ -1,8 +1,8 @@
 {
-  "versionCode": 61,
-  "versionName": "1.61",
-  "apkUrl": "https://github.com/AugeasTechnologies/puretip-ota/releases/download/v1.61/PuretipOne-v1.61.apk",
-  "sha256": "5738ce9cc03f5701ccf6882259a86adfad44e1d20f07cc8e7e91e6ddcf1e1afe",
+  "versionCode": 62,
+  "versionName": "1.62",
+  "apkUrl": "https://github.com/AugeasTechnologies/puretip-ota/releases/download/v1.62/PuretipOne-v1.62.apk",
+  "sha256": "c6d8e36a94e5805819500ec90803cb01aa81befa9ea5aeedae604aeba0dc2e39",
   "mandatory": false,
-  "notes": "Select Tip / Calibrate header reskin (home pill, breadcrumb); art-only, no control changes"
+  "notes": "Settings passcode 1536. Landscape only. New header buttons and Apple-style keyboard. Shorter texts."
 }
