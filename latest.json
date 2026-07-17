@@ -1,8 +1,8 @@
 {
-  "versionCode": 67,
-  "versionName": "1.67",
-  "apkUrl": "https://github.com/AugeasTechnologies/puretip-ota/releases/download/v1.67/PuretipOne-v1.67.apk",
-  "sha256": "1aeef310f4e13cf84eb828c25aae1e79ffc7f390a228a8bf8854f66809fccba8",
+  "versionCode": 68,
+  "versionName": "1.68",
+  "apkUrl": "https://github.com/AugeasTechnologies/puretip-ota/releases/download/v1.68/PuretipOne-v1.68.apk",
+  "sha256": "fbec21c1aaae6bc04d2017e01ad788bdffa1c3d1c124c7d34861fd55a6d86912",
   "mandatory": false,
-  "notes": "Password screens now scale to any tablet size, like the rest of the app."
+  "notes": "Every screen now fits any tablet size. Fixed the Step 1-5 buttons showing cut-off numbers."
 }
