@@ -1,8 +1,8 @@
 {
-  "versionCode": 68,
-  "versionName": "1.68",
-  "apkUrl": "https://github.com/AugeasTechnologies/puretip-ota/releases/download/v1.68/PuretipOne-v1.68.apk",
-  "sha256": "fbec21c1aaae6bc04d2017e01ad788bdffa1c3d1c124c7d34861fd55a6d86912",
+  "versionCode": 69,
+  "versionName": "1.69",
+  "apkUrl": "https://github.com/AugeasTechnologies/puretip-ota/releases/download/v1.69/PuretipOne-v1.69.apk",
+  "sha256": "d0c7280e1f3f50def602e14979648eb321405bcad926bbdb18943137d50fbb3e",
   "mandatory": false,
-  "notes": "Every screen now fits any tablet size. Fixed the Step 1-5 buttons showing cut-off numbers."
+  "notes": "Bioyond Rob INTF single-client takeover per BY-RD-02-003 s2; delaySeconds cap raised 60->600 to match advertised operation max"
 }
