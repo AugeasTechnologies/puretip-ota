@@ -1,8 +1,8 @@
 {
-  "versionCode": 69,
-  "versionName": "1.69",
-  "apkUrl": "https://github.com/AugeasTechnologies/puretip-ota/releases/download/v1.69/PuretipOne-v1.69.apk",
-  "sha256": "d0c7280e1f3f50def602e14979648eb321405bcad926bbdb18943137d50fbb3e",
+  "versionCode": 70,
+  "versionName": "1.70",
+  "apkUrl": "https://github.com/AugeasTechnologies/puretip-ota/releases/download/v1.70/PuretipOne-v1.70.apk",
+  "sha256": "1c2fe5fe16c3d7052d1645053f929a1ec784615a7c5812fe3fdcbab49d44ed01",
   "mandatory": false,
-  "notes": "Bioyond Rob INTF single-client takeover per BY-RD-02-003 s2; delaySeconds cap raised 60->600 to match advertised operation max"
+  "notes": "Notifies you when an update is available. Station faults now surface in about 5 seconds instead of up to a minute."
 }
