@@ -1,8 +1,8 @@
 {
-  "versionCode": 71,
-  "versionName": "1.71",
-  "apkUrl": "https://github.com/AugeasTechnologies/puretip-ota/releases/download/v1.71/PuretipOne-v1.71.apk",
-  "sha256": "8fbb8751e6dda6b63d2cb36e64729a02011b0fba341539bf0b2061f8204a7be1",
+  "versionCode": 72,
+  "versionName": "2.00",
+  "apkUrl": "https://github.com/AugeasTechnologies/puretip-ota/releases/download/v2.00/PuretipOne-v2.00.apk",
+  "sha256": "79f3f7b485efa42c159cd4fd2d0eb965a727e5404bf34a419a5f29e3336a2b29",
   "mandatory": false,
-  "notes": "Fixes the Station not found message repeating on its own. It now appears only when you tap Initialize yourself. Diagnostics, About and Settings are full size and scroll on smaller screens."
+  "notes": "New version built on the updated station software. Misting and cleaning now run in on and off pulses with a cycle count, and there is a new Flush Mode button. Settings adds maximum Z-axis speed."
 }
