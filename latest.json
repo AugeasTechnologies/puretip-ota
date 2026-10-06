@@ -1,8 +1,8 @@
 {
-  "versionCode": 74,
-  "versionName": "2.02",
-  "apkUrl": "https://github.com/AugeasTechnologies/puretip-ota/releases/download/v2.02/PuretipOne-v2.02.apk",
-  "sha256": "a0901a26413bd1d0ae365a14887379ae78899b3f4bb6aaa8cc3e7ed546d1b3ec",
+  "versionCode": 75,
+  "versionName": "2.03",
+  "apkUrl": "https://github.com/AugeasTechnologies/puretip-ota/releases/download/v2.03/PuretipOne-v2.03.apk",
+  "sha256": "579619a69bd297ec3d22f68d6b320ea7a86655e5701f71260809a46f603eefeb",
   "mandatory": false,
-  "notes": "Puretip One 2.02. Works with IFS auto-connect: the tablet keeps USB debugging on so IFS reconnects by itself. Includes everything in 2.01: the new station software with pulsed misting and cleaning and cycle counts, Flush Mode, RS232 link, firmware updates, Z-axis speed setting, and fault alarms that chime until acknowledged."
+  "notes": "Puretip One 2.03, now published by Augeas Technologies. Installs as the new Augeas app, then offers to remove the old one; your tip profiles are kept. If this tablet starts the app on boot, set it as the Home app again in Diagnostics. Includes the V2.0 station software: pulsed misting and cleaning with cycle counts, Flush Mode, RS232 link, firmware updates, and fault alarms that chime until acknowledged."
 }
