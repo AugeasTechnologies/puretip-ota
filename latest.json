@@ -1,8 +1,8 @@
 {
-  "versionCode": 73,
-  "versionName": "2.01",
-  "apkUrl": "https://github.com/AugeasTechnologies/puretip-ota/releases/download/v2.01/PuretipOne-v2.01.apk",
-  "sha256": "5f8cfb37f9a133fb04f033357f9eff81e0b492222c28f9fd1a28c07a3b549e9e",
+  "versionCode": 74,
+  "versionName": "2.02",
+  "apkUrl": "https://github.com/AugeasTechnologies/puretip-ota/releases/download/v2.02/PuretipOne-v2.02.apk",
+  "sha256": "a0901a26413bd1d0ae365a14887379ae78899b3f4bb6aaa8cc3e7ed546d1b3ec",
   "mandatory": false,
-  "notes": "Puretip One 2.01 on the new station software. Misting and cleaning run in on and off pulses with a cycle count. New Flush Mode, RS232 serial link as an alternative to Bluetooth, firmware updates from Settings, and a maximum Z-axis speed setting. Station faults such as low or empty misting liquid and E-Stop now chime until acknowledged and are logged. Redesigned start-up, warnings and Diagnostics, with sound controls."
+  "notes": "Puretip One 2.02. Works with IFS auto-connect: the tablet keeps USB debugging on so IFS reconnects by itself. Includes everything in 2.01: the new station software with pulsed misting and cleaning and cycle counts, Flush Mode, RS232 link, firmware updates, Z-axis speed setting, and fault alarms that chime until acknowledged."
 }
