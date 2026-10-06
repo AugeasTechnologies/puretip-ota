@@ -1,8 +1,8 @@
 {
-  "versionCode": 72,
-  "versionName": "2.00",
-  "apkUrl": "https://github.com/AugeasTechnologies/puretip-ota/releases/download/v2.00/PuretipOne-v2.00.apk",
-  "sha256": "79f3f7b485efa42c159cd4fd2d0eb965a727e5404bf34a419a5f29e3336a2b29",
+  "versionCode": 73,
+  "versionName": "2.01",
+  "apkUrl": "https://github.com/AugeasTechnologies/puretip-ota/releases/download/v2.01/PuretipOne-v2.01.apk",
+  "sha256": "5f8cfb37f9a133fb04f033357f9eff81e0b492222c28f9fd1a28c07a3b549e9e",
   "mandatory": false,
-  "notes": "New version built on the updated station software. Misting and cleaning now run in on and off pulses with a cycle count, and there is a new Flush Mode button. Settings adds maximum Z-axis speed."
+  "notes": "Puretip One 2.01 on the new station software. Misting and cleaning run in on and off pulses with a cycle count. New Flush Mode, RS232 serial link as an alternative to Bluetooth, firmware updates from Settings, and a maximum Z-axis speed setting. Station faults such as low or empty misting liquid and E-Stop now chime until acknowledged and are logged. Redesigned start-up, warnings and Diagnostics, with sound controls."
 }
