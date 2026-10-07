@@ -1,8 +1,8 @@
 {
-  "versionCode": 76,
-  "versionName": "2.04",
-  "apkUrl": "https://github.com/AugeasTechnologies/puretip-ota/releases/download/v2.04/PuretipOne-v2.04.apk",
-  "sha256": "f090f0111ac2cfa98b9a062257ee19640ac63952926ed736e19d78a323ad7c32",
+  "versionCode": 77,
+  "versionName": "2.05",
+  "apkUrl": "https://github.com/AugeasTechnologies/puretip-ota/releases/download/v2.05/PuretipOne-v2.05.apk",
+  "sha256": "95a3f838c1b702196ef87653005d673814e799231269f9e478bbb426b524289e",
   "mandatory": false,
-  "notes": "Fixes the crash some tablets hit on the first launch after the 2.03 update. Start-up now shows the intro first, then asks for permissions one at a time. The notice about the old app now explains that its misting and cleaning settings were not copied, with a button to open it and copy them across before removing it. IFS can now press Auto Run, Flush Mode and Eject Tips."
+  "notes": "Popups on the tablet can now be acknowledged from IFS; it presses the safe choice (Cancel, No or Later when offered, otherwise OK) and silences a fault alarm. Includes the 2.04 fixes: no crash on the first launch after updating, the intro first and then each permission prompt in turn, and an honest notice about the old app's settings."
 }
