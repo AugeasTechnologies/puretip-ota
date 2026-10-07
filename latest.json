@@ -1,8 +1,8 @@
 {
-  "versionCode": 77,
-  "versionName": "2.05",
-  "apkUrl": "https://github.com/AugeasTechnologies/puretip-ota/releases/download/v2.05/PuretipOne-v2.05.apk",
-  "sha256": "95a3f838c1b702196ef87653005d673814e799231269f9e478bbb426b524289e",
+  "versionCode": 79,
+  "versionName": "2.07",
+  "apkUrl": "https://github.com/AugeasTechnologies/puretip-ota/releases/download/v2.07/PuretipOne-v2.07.apk",
+  "sha256": "24772329b3e4e2579261b49ac8533187cd34a3c77a437ef0c4e72255b2c13886",
   "mandatory": false,
-  "notes": "Popups on the tablet can now be acknowledged from IFS; it presses the safe choice (Cancel, No or Later when offered, otherwise OK) and silences a fault alarm. Includes the 2.04 fixes: no crash on the first launch after updating, the intro first and then each permission prompt in turn, and an honest notice about the old app's settings."
+  "notes": "Acknowledge from IFS closes every popup on the screen at once; the same warning no longer stacks up in copies."
 }
